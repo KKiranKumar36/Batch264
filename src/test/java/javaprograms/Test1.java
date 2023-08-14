@@ -7,7 +7,7 @@ public class Test1 {
 		int a= 50;
 		int b=60;
 		int z=a-b;
-		System.out.println("sum is" + z);
+		System.out.println("Subtraction value is" + z);
 
 	}
 

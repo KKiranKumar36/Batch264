@@ -8,7 +8,7 @@ public class Test1 {
 		int b=120;
 		int z=a-b;
 		int w=a+b;
-		System.out.println("Subtraction and Addition values are" + z);
+		System.out.println("Subtraction and Addition values are" + z +","+ w);
 
 	}
 
